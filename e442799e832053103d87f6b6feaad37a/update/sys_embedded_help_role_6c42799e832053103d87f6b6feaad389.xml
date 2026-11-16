@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_2316590_jio_te_0.admin" name="x_2316590_jio_te_0.admin">2842799e832053103d87f6b6feaad386</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-11-16 14:00:22</sys_created_on>
+        <sys_id>6c42799e832053103d87f6b6feaad389</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2842799e832053103d87f6b6feaad386</sys_name>
+        <sys_package display_value="Jio Telecom Enterprise Service Management" source="x_2316590_jio_te_0">e442799e832053103d87f6b6feaad37a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Jio Telecom Enterprise Service Management">e442799e832053103d87f6b6feaad37a</sys_scope>
+        <sys_update_name>sys_embedded_help_role_6c42799e832053103d87f6b6feaad389</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-11-16 14:00:22</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
